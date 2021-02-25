@@ -38,7 +38,8 @@ Thank you very much for your time to take this test. Please upload this complete
 
 
 
-##solution
+##notes to run this application
+
 1) curl to create employee entry : curl --location --request POST 'http://localhost:8080/v1/bfs/employee' \
                                 --header 'Cache-Control: no-cache' \
                                 --header 'Postman-Token: 13f4cb99-caf7-4f89-a733-38282d95132f,db64c0d0-18e7-4daf-b88c-0c088ba38be2' \
